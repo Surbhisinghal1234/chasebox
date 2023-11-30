@@ -1,0 +1,23 @@
+*{
+    padding: 0 ;
+    margin: 0;
+    background-color: antiquewhite;
+}
+.one{
+    background-color: white;
+    height: 103px;
+    width: 103px;
+}
+.two
+{
+    background-color: black;
+    width: 103px;
+    height: 103px;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ 
